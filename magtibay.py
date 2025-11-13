@@ -1,0 +1,2 @@
+name = "magtibay"
+print(name)
